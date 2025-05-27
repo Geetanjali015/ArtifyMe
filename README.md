@@ -11,3 +11,6 @@ Turn your regular photos into cartoon-style artworks with a single click! **Arti
 - Built with modern UI/UX using TailwindCSS + Next.js
 
 ![image](https://github.com/user-attachments/assets/d31f61c8-cfcb-4d65-bb80-856fd9c1f2dd)
+<br\>
+![image](https://github.com/user-attachments/assets/9adde7e8-fc4c-49a7-916f-5dfe2bcb3ac0)
+
