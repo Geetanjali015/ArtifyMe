@@ -8,7 +8,7 @@ Turn your regular photos into cartoon-style artworks with a single click! **Arti
 - AI-powered cartoonization using a pre-trained model
 - Choose from various art styles: Cartoon, Oil Painting, B&W, Sketch, Sepia, etc.
 - Instantly download your stylized image
-- Built with modern UI/UX using TailwindCSS + Next.js
+- Built with modern UI/UX using TailwindCSS & Next.js
 
 ![image](https://github.com/user-attachments/assets/d31f61c8-cfcb-4d65-bb80-856fd9c1f2dd)
 <br/>
