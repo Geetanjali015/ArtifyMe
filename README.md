@@ -1,7 +1,24 @@
 # 🎨 ArtifyME — AI-Powered Image Cartoonization
 
-ArtifyME is a full-stack AI application that transforms user images into various artistic styles such as **cartoon**, **oil painting**, **sketch**, **B&W**, and more.  
-The project uses a **Next.js frontend** and a **Python FastAPI backend** powered by the **White-box Cartoonization model** ,**OpenCV and PyTorch**.
+ArtifyME is a full-stack AI-powered image stylization system that transforms user-uploaded photos into a wide range of artistic formats including cartoon, oil painting, pencil sketch, sepia, B&W, and more.
+The application features a Next.js frontend and a FastAPI backend that performs real-time image processing using PyTorch, OpenCV, and a pre-trained White-box Cartoonization Generator for high-quality neural style transfer.
+
+---
+## ✨ Features
+
+- **Upload any image** (JPG/PNG)
+- **AI-powered cartoonization** using a pre-trained neural network
+- Multiple style options:
+  - Cartoon  
+  - Oil Paint  
+  - Pencil Sketch  
+  - B&W  
+  - Sepia  
+  - Smooth Cartoon  
+- **Fast real-time inference**
+- **Download the output image**
+- **Backend–Frontend REST API communication**
+- **Responsive UI**
 
 ---
 
@@ -27,23 +44,7 @@ The project uses a **Next.js frontend** and a **Python FastAPI backend** powered
 
 ---
 
-## ✨ Features
 
-- **Upload any image** (JPG/PNG)
-- **AI-powered cartoonization** using a pre-trained neural network
-- Multiple style options:
-  - Cartoon  
-  - Oil Paint  
-  - Pencil Sketch  
-  - B&W  
-  - Sepia  
-  - Smooth Cartoon  
-- **Fast real-time inference**
-- **Download the output image**
-- **Backend–Frontend REST API communication**
-- **Responsive UI**
-
----
 
 ## 📁 Project Structure
 
